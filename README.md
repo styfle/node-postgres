@@ -83,6 +83,8 @@ If your change involves breaking backwards compatibility please please point tha
 
 The causes and solutions to common errors can be found among the [Frequently Asked Questions (FAQ)](https://github.com/brianc/node-postgres/wiki/FAQ)
 
+test 
+
 ## License
 
 Copyright (c) 2010-2020 Brian Carlson (brian.m.carlson@gmail.com)
